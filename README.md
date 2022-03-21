@@ -1,2 +1,2 @@
-# SolidityContracts
+# Smart Contracts
 Solidity smart contracts repository.
