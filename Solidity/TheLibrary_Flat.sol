@@ -1225,7 +1225,7 @@ Smart Contract Information:
 
 
 **/ 
-
+// SPDX-License-Identifier: MIT-advertising
 
 // Solidity version.
 // Above 0.8.13, and below version 0.9.0.
