@@ -1224,12 +1224,14 @@ Smart Contract Information:
 @dev: License Information — https://SPDX.org/licenses/MIT-advertising
 
 
-**/ 
-// SPDX-License-Identifier: MIT-advertising
+**/
+// @notice: MIT-advertising is not a supported license on Etherscan, so the MIT License is used here.
+// SPDX-License-Identifier: MIT 
 
 // Solidity version.
 // Above 0.8.13, and below version 0.9.0.
 pragma solidity ^0.8.13 < 0.9.0;
+
 
 /* Imported libraries and dependancies:
   import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
